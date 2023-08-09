@@ -1,4 +1,7 @@
 {
+  "overrides": {
+    "node": "14.1.7"
+  },
   "name": "server",
   "version": "1.0.0",
   "description": "",
@@ -21,8 +24,5 @@
     "node": "^20.5.0",
     "passport": "^0.5.3",
     "passport-google-oauth20": "^2.0.0"
-  },
-  "resolutions": {
-    "node": "14.1.7"
   }
 }
