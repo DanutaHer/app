@@ -1,6 +1,6 @@
 {
   "overrides": {
-    "node": "18.18.2"
+    "node": "20.5.1"
   },
   "name": "server",
   "version": "1.0.0",
